@@ -12,3 +12,5 @@ https://user-images.githubusercontent.com/46888825/205075201-681c5910-5ae0-4fbc-
 
 how to install:
 just drag it in your studio :/
+
+files r in the reelases go dokwnload!!!!!!!!!
