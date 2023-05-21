@@ -1,16 +1,16 @@
 # roblox-color-wheel-picker
-My own version of Roblox color wheel picker
-(BASED ON https://www.roblox.com/library/6023759238/Colour-Wheel)
 
-I added auto darkness slider size cuz on the original model it clips out when at the bottom/top of the darkness picker pill
+This is my personal version of the Roblox color wheel picker, which is based on the original found here: https://www.roblox.com/library/6023759238/Colour-Wheel.
 
-also added some math so the color picker will follow your mouse while staying inside the circle (when ur mouse is outside the circle ofc) 🤓
+I've made a few improvements to the original model. Firstly, I added an automatic darkness slider size adjustment. This was to address an issue in the original model where it would clip out at the bottom/top of the darkness picker.
 
-Vid preview
+Additionally, I incorporated some mathematics to make the color picker follow your mouse, yet stay within the circle. This function applies when your mouse is outside the circle. 🤓
+
+Here's a video preview:
 
 https://user-images.githubusercontent.com/46888825/205075201-681c5910-5ae0-4fbc-b1d0-6c0dfc600c7d.mov
 
-how to install:
-just drag it in your studio :/
+Instructions for installation:
+Simply drag and drop it into your studio.
 
-files r in the reelases go dokwnload!!!!!!!!!
+The files are available in the releases section for download. Enjoy!
